@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "produto": "Abacaxi",
+    "produtor": "Abacaxi de Ouro",
+    "origem_uf": "PE",
+    "data_colheita": "2025-09-20",
+    "peso_kg": 900.0,
+    "carbono_neutro": true,
+    "agua_reuso": false,
+    "status": "EM_PROCESSAMENTO",
+    "eventos": []
+  },
+  {
+    "id": 2,
+    "produto": "Melão",
+    "produtor": "Doce Melão",
+    "origem_uf": "SE",
+    "data_colheita": "2025-10-10",
+    "peso_kg": 1300.0,
+    "carbono_neutro": false,
+    "agua_reuso": true,
+    "status": "EM_PROCESSAMENTO",
+    "eventos": [
+      {
+        "tipo": "ARMAZENAGEM",
+        "data": "2025-10-15",
+        "local": "Piracicaba",
+        "responsavel": "Rafael",
+        "observacoes": "Alguns produtos foram danificados"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "produto": "Milho",
+    "produtor": "Milharal Benicio",
+    "origem_uf": "MT",
+    "data_colheita": "2025-03-18",
+    "peso_kg": 2000.0,
+    "carbono_neutro": true,
+    "agua_reuso": true,
+    "status": "EM_PROCESSAMENTO",
+    "eventos": []
+  },
+  {
+    "id": 4,
+    "produto": "Uva",
+    "produtor": "Barbosa",
+    "origem_uf": "PR",
+    "data_colheita": "2025-05-08",
+    "peso_kg": 254.0,
+    "carbono_neutro": true,
+    "agua_reuso": true,
+    "status": "EM_PROCESSAMENTO",
+    "eventos": []
+  },
+  {
+    "id": 5,
+    "produto": "Caju",
+    "produtor": "Cajueiro",
+    "origem_uf": "RN",
+    "data_colheita": "2024-01-01",
+    "peso_kg": 1587.0,
+    "carbono_neutro": false,
+    "agua_reuso": true,
+    "status": "EM_PROCESSAMENTO",
+    "eventos": []
+  },
+  {
+    "id": 6,
+    "produto": "Banana",
+    "produtor": "Correa",
+    "origem_uf": "SP",
+    "data_colheita": "2025-10-15",
+    "peso_kg": 999.0,
+    "carbono_neutro": true,
+    "agua_reuso": false,
+    "status": "EM_PROCESSAMENTO",
+    "eventos": []
+  },
+  {
+    "id": 7,
+    "produto": "Maçã",
+    "produtor": "Comida Boa",
+    "origem_uf": "SP",
+    "data_colheita": "2009-09-09",
+    "peso_kg": 589.0,
+    "carbono_neutro": true,
+    "agua_reuso": true,
+    "status": "EM_PROCESSAMENTO",
+    "eventos": []
+  },
+  {
+    "id": 8,
+    "produto": "Morango",
+    "produtor": "Atibaia",
+    "origem_uf": "SP",
+    "data_colheita": "2000-05-25",
+    "peso_kg": 2345.0,
+    "carbono_neutro": false,
+    "agua_reuso": true,
+    "status": "EM_PROCESSAMENTO",
+    "eventos": []
+  }
+]

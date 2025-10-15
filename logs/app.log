@@ -1,0 +1,45 @@
+[2025-10-14 23:49:58] carregar_json: OK (0) | integridade=N/A
+[2025-10-14 23:49:58] Oracle indisponível (No module named 'persistencia_oracle'); seguindo apenas com JSON.
+[2025-10-14 23:50:50] ERRO cadastrar: Data inválida. Use DD/MM/YYYY.
+[2025-10-14 23:58:48] carregar_json: OK (0) | integridade=N/A
+[2025-10-14 23:58:49] Oracle indisponível (Variáveis ORACLE_* ausentes no .env); seguindo apenas com JSON.
+[2025-10-14 23:59:52] salvar_json: OK (1 lotes)
+[2025-10-15 00:00:34] salvar_json: OK (2 lotes)
+[2025-10-15 00:02:07] salvar_json: OK (2 lotes)
+[2025-10-15 00:03:12] exportar_csv: OK → teste.csv
+[2025-10-15 00:20:23] carregar_json: OK (2) | integridade=OK
+[2025-10-15 00:20:25] Oracle indisponível (ORA-01017: invalid username/password; logon denied
+Help: https://docs.oracle.com/error-help/db/ora-01017/); seguindo apenas com JSON.
+[2025-10-15 00:34:37] salvar_json: OK (3 lotes)
+[2025-10-15 00:35:11] carregar_json: OK (3) | integridade=OK
+[2025-10-15 00:35:15] Oracle conectado.
+[2025-10-15 00:46:03] salvar_json: OK (4 lotes)
+[2025-10-15 00:46:03] ERRO cadastrar: DPY-2005: expecting positional arguments or keyword arguments, not both
+[2025-10-15 00:47:51] salvar_json: OK (5 lotes)
+[2025-10-15 00:47:51] ERRO cadastrar: DPY-2005: expecting positional arguments or keyword arguments, not both
+[2025-10-15 00:53:40] salvar_json: OK (6 lotes)
+[2025-10-15 00:53:40] ERRO cadastrar: DPY-2005: expecting positional arguments or keyword arguments, not both
+[2025-10-15 00:54:04] carregar_json: OK (6) | integridade=OK
+[2025-10-15 00:54:05] Oracle conectado.
+[2025-10-15 00:54:39] salvar_json: OK (7 lotes)
+[2025-10-15 00:54:39] ERRO cadastrar: ORA-00942: table or view does not exist
+Help: https://docs.oracle.com/error-help/db/ora-00942/
+[2025-10-15 01:13:15] carregar_json: OK (7) | integridade=OK
+[2025-10-15 01:13:16] Oracle conectado.
+[2025-10-15 01:13:56] salvar_json: OK (8 lotes)
+[2025-10-15 01:13:56] ERRO cadastrar: ORA-00942: table or view does not exist
+Help: https://docs.oracle.com/error-help/db/ora-00942/
+[2025-10-15 01:27:41] carregar_json: OK (8) | integridade=OK
+[2025-10-15 01:27:42] Oracle: tabela LOTE criada.
+[2025-10-15 01:27:42] Oracle: tabela EVENTO criada.
+[2025-10-15 01:27:42] Oracle: índice IDX_EVENTO_LOTE criado.
+[2025-10-15 01:27:42] Oracle: índice IDX_LOTE_UF criado.
+[2025-10-15 01:27:42] Oracle: índice IDX_LOTE_STATUS criado.
+[2025-10-15 01:27:42] Oracle conectado.
+[2025-10-15 01:28:42] salvar_json: OK (9 lotes)
+[2025-10-15 01:28:42] ERRO cadastrar: int() argument must be a string, a bytes-like object or a real number, not 'list'
+[2025-10-15 01:36:39] carregar_json: OK (9) | integridade=OK
+[2025-10-15 01:36:40] Oracle conectado.
+[2025-10-15 01:37:15] salvar_json: OK (10 lotes)
+[2025-10-15 01:37:15] DB inserir_lote: 2
+[2025-10-15 01:37:15] salvar_json: OK (10 lotes)
